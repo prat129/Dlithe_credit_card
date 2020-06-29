@@ -1,4 +1,5 @@
-Project Topic : Credit Card Fraud Detection Reference : DLithe
+Project Topic : Credit Card Fraud Detection
+Reference : DLithe
 Website : www.dlithe.com Project done under the guidance of : DLithe
 
 Done by: Pratheek M
