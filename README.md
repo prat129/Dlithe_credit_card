@@ -8,8 +8,7 @@ Project done under the guidance of : DLithe
 
 Done by: Pratheek M (4NM17CS129)
 
-Analyzing anonymized credit card transactions labeled as fraudulent or genuine
-
+Analyzing anonymized credit card transactions labeled as fraudulent or genuine-
 Figuring out the number of fraud and genuine cases in the given dataset (dataset:https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 creditcard.csv contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
@@ -27,7 +26,7 @@ iv)  Building the model and implementing  any suitable algorithm to perform
      anomaly detection
      
 
- Result : 30% of the given nmber of transaction are detected to be fraudulent with an accuracy of 90% (by using Isolation forest algorithm)
+ Result : 30% of the given number of transaction are detected to be fraudulent with an accuracy of 90% (by using Isolation forest algorithm)
  
  
  resources and references:
