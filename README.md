@@ -4,8 +4,6 @@ Reference : DLithe
 
 Website : www.dlithe.com
 
-Project done under the guidance of : DLithe
-
 Done by: Pratheek M (4NM17CS129)
 
 Analyzing anonymized credit card transactions labeled as fraudulent or genuine-
